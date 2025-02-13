@@ -1,0 +1,5 @@
+Thought about coding it wihtin assembly,
+but since my computer hasn't been 
+linux-ified, I'm still running Windows.
+Assembly in Windows sucks, It's 
+significantly harder than on linux 
